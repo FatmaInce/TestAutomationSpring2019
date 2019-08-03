@@ -48,6 +48,7 @@ public class AutomationScript {
         //USE CLEAR() METHOD  //INPUT.CLEAR()
         // CONTINUE USING SENDKEYS() METHOD
         // use getAttribute
+        System.out.println("Hello World");
 
         driver.close();
 
